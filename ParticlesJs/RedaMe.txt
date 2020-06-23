@@ -1,0 +1,39 @@
+
+						**		particles.js      **
+
+	it is javascript library used for background unqiue effect and it makes web site attractive.
+there is so many libraries of js like type.js,particles.js,anime.js,three.js etc.	
+
+If you want to implement particles.js follow the below steps.
+
+particles.js has no offical site to give more information but on github you found source code and you find demo how it 
+works.you have to download this source code from github 
+on github there is so many files avaliable there like index.html,css,json,js files.
+instead copy all I recommand you to download json file only. and create your own html file
+ 
+after you create html file, define div tag with its like particle-js
+and import particle.js and load the particle.json file in script tag 
+then you need to start sever start server in particular port and run that html file because we had json file that run on http server.
+if you have python install on your computer then then simply write python -m http.server 8000 // this will start server on 8000 port.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
